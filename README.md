@@ -1,2 +1,2 @@
-# Demo_For_IOS-C-
 This project is just a demo to show how to invoke the c++ functions and print the log to the screen.
+The purpose of this project is for c++ testing on IOS. Somethings we didn't want to make a app to check if our c++ program work fine, but there is no way like adb-shell for android which is convenient enough to debug c++ program. I make this demo to make a template while you can just add your c++ code in the .mm file. In this project,A gtest demo was given that gtest is always used in c++ unit test.
